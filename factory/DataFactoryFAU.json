@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryFAU",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dbbd719a-9e52-46bd-9e32-1fa4501eba07",
+		"tenantId": "6475e913-23c1-4cbc-92b8-e0cb4e9132ce"
+	}
+}
